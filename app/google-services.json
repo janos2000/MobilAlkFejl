@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "214510528195",
+    "project_id": "magyar-villamos-muvek",
+    "storage_bucket": "magyar-villamos-muvek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214510528195:android:8df0e959e6493bb0fee476",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214510528195-n45e24798svf4n7qdfsticd9sf250e1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project",
+            "certificate_hash": "b3b1ee3b531fbd567fbcbeac1a6619e675d424fa"
+          }
+        },
+        {
+          "client_id": "214510528195-hh8b0r7v1468ua0d06dvggtuufjbkfsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBam6FE0Mk8f32sms-MgdaGlK2INjClwFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214510528195-hh8b0r7v1468ua0d06dvggtuufjbkfsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
